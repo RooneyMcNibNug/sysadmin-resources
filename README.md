@@ -19,6 +19,7 @@ Here you will find a curated collection of links to aid the weary SysAdmin. I wi
 + [Strace -- The Sysadmin's Microscope](https://blogs.oracle.com/linux/strace-the-sysadmins-microscope-v2) - Introduction to using the system-call tracer (strace) for low-level troubleshooting
 
 ## Networking
++ [iptables ArchWiki](https://wiki.archlinux.org/index.php/Iptables) - The arch linux wiki entry for iptables, which seems to cover the utility thoroughly and provides examples/scenarios
 
 ## Databases
 
