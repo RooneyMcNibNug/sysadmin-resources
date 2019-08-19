@@ -14,6 +14,8 @@ Here you will find a curated collection of links to aid the weary SysAdmin. I wi
 ## System Management
 + [systemd for Administrators](https://gist.github.com/bcremer/8cdf6900c35dda65f387) - Collection of the series of posts on 0xpointer dot net, its very useful for in-depth understanding of the newer init system.
 
++ [Chmod codes cheat sheet](https://gist.github.com/juanarbol/c44e736be70279c1fd5d68aa24f9d8be) - For when you forget about how octal notation and applying specific files/folder permissions works!
+
 + [Devops Cheatsheet](https://rubytune.com/cheat/) - Handy list of terminal commands for daily administration
 
 + [Strace -- The Sysadmin's Microscope](https://blogs.oracle.com/linux/strace-the-sysadmins-microscope-v2) - Introduction to using the system-call tracer (strace) for low-level troubleshooting
