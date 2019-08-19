@@ -12,7 +12,10 @@ Here you will find a curated collection of links to aid the weary SysAdmin. I wi
 7. [Misc.](Misc.)
 
 ## System Management
-+ [systemd for Administrators](https://gist.github.com/bcremer/8cdf6900c35dda65f387) - Collection of the series of posts on 0xpointer dot net, its very useful for in-depth understanding of the newer init system.
+
++ [Signal(7) man-page](http://man7.org/linux/man-pages/man7/signal.7.html) - Useful guide for sending proper signals during proc management
+
++ [systemd for Administrators](https://gist.github.com/bcremer/8cdf6900c35dda65f387) - Collection of the series of posts on 0xpointer dot net, its very useful for in-depth understanding of the newer init system
 
 + [Chmod codes cheat sheet](https://gist.github.com/juanarbol/c44e736be70279c1fd5d68aa24f9d8be) - For when you forget about how octal notation and applying specific files/folder permissions works!
 
@@ -31,7 +34,7 @@ Here you will find a curated collection of links to aid the weary SysAdmin. I wi
 ## Security
 + [OpenBSD's AFTERBOOT(8) manual page](https://man.openbsd.org/afterboot) - While this is specific to the OpenBSD OS, it should serve as a handy "priority" post-install config guide for system administration of Unix/Linux systems across the board
 
-+ [Basic and advanced configuration of Security-Enhanced Linux (SELinux)](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/selinux_users_and_administrators_guide/index) - RHEL's guide for SElinux configuration and management, including sections for basics as well as more in-depth coverage of the access control system.
++ [Basic and advanced configuration of Security-Enhanced Linux (SELinux)](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/selinux_users_and_administrators_guide/index) - RHEL's guide for SElinux configuration and management, including sections for basics as well as more in-depth coverage of the access control system
 
 ## Virtualization
 + [docker for Beginners](https://docker-curriculum.com/) - Decent tutorial for getting started with docker and container configuration/management
