@@ -31,6 +31,8 @@ Here you will find a curated collection of links to aid the weary SysAdmin. I wi
 ## Databases
 
 ## Logs
++ [OWASP page - Log review and management](https://www.owasp.org/index.php/Log_review_and_management) - A nice set of guidlines from OWASP on generally handling and maintaining logs. Includes some nice links at the bottom too.
+
 + [Syslog : The Complete System Administrator Guide](https://devconnected.com/syslog-the-complete-system-administrator-guide/) - A pretty comprehensive guide to the Linux Syslog protocol
 
 ## Security
