@@ -43,6 +43,8 @@ Here you will find a curated collection of links to aid the weary SysAdmin. I wi
 ## Virtualization
 + [docker for Beginners](https://docker-curriculum.com/) - Decent tutorial for getting started with docker and container configuration/management
 
++ [FreeBSD Jails Admin](https://www.freebsd.org/doc/handbook/jails.html) - Official FreeBSD introduction and further documentation on FreeBSD Jails for reasonably-secure virtualization.
+
 ## Misc.
 + [Linux System Administrator/DevOps Interview Questions](https://github.com/chassing/linux-sysadmin-interview-questions) - Collection of interview questions for SysAdmin applicants - seems useful for preparation
 
