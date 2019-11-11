@@ -12,6 +12,7 @@ Here you will find a curated collection of links to aid the weary SysAdmin. I wi
 7. [Misc.](Misc.)
 
 ## System Management
++ [Linux Insides](https://0xax.gitbooks.io/linux-insides/) - A great free online book to help understand the linux kernel, boot process, and other low-level happenings.
 
 + [Signal(7) man-page](http://man7.org/linux/man-pages/man7/signal.7.html) - Useful guide for sending proper signals during proc management
 
