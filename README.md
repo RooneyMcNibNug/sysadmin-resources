@@ -30,6 +30,7 @@ Here you will find a curated collection of links to aid the weary SysAdmin. I wi
 + [iptables ArchWiki](https://wiki.archlinux.org/index.php/Iptables) - The arch linux wiki entry for iptables, which seems to cover the utility thoroughly and provides examples/scenarios
 
 ## Databases
++ [SQL Quick Reference](https://www.w3schools.com/SQL/sql_quickref.asp) - a short 'cheat sheet' for SQL commands by W3Schools
 
 ## Logs
 + [OWASP page - Log review and management](https://www.owasp.org/index.php/Log_review_and_management) - A nice set of guidlines from OWASP on generally handling and maintaining logs. Includes some nice links at the bottom too.
