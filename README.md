@@ -49,6 +49,8 @@ Here you will find a curated collection of links to aid the weary SysAdmin. I wi
 ## Misc.
 + [Linux System Administrator/DevOps Interview Questions](https://github.com/chassing/linux-sysadmin-interview-questions) - Collection of interview questions for SysAdmin applicants - seems useful for preparation
 
++ [endoflife.date](https://endoflife.date/) - "This site maintains quick links for checking End Of Life dates for various tools and technologies."
+
 + [Regex For Noobs (like me!) - An Illustrated Guide](https://www.janmeppe.com/blog/regex-for-noobs/) - Gentle guide to using regular expressions (with illustrations, like it says)
 
 + [The myth of Sisyphus, and other essays](https://archive.org/details/mythofsisyphusot00camu/) - ...a half-jest
