@@ -48,6 +48,8 @@ Here you will find a curated collection of links to aid the weary SysAdmin. I wi
 + [FreeBSD Jails Admin](https://www.freebsd.org/doc/handbook/jails.html) - Official FreeBSD introduction and further documentation on FreeBSD Jails for reasonably-secure virtualization.
 
 ## Misc.
++ [Enable Sysadmin](https://www.redhat.com/sysadmin/) - Red Hat Enterprise Linux's "community publication" for SysAdmins, featuring articles, tutorials, etc. A nice page to check on from time to time.
+
 + [Linux System Administrator/DevOps Interview Questions](https://github.com/chassing/linux-sysadmin-interview-questions) - Collection of interview questions for SysAdmin applicants - seems useful for preparation
 
 + [endoflife.date](https://endoflife.date/) - "This site maintains quick links for checking End Of Life dates for various tools and technologies."
