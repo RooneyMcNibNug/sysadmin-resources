@@ -42,6 +42,8 @@ Here you will find a curated collection of links to aid the weary SysAdmin. I wi
 
 + [Basic and advanced configuration of Security-Enhanced Linux (SELinux)](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/selinux_users_and_administrators_guide/index) - RHEL's guide for SElinux configuration and management, including sections for basics as well as more in-depth coverage of the access control system
 
++ [An Overview of Cryptography](https://www.garykessler.net/library/crypto.html) - A very long and thorough "book" highlighting the principles and details of several crypto protocols/systems. Lots of math and links.
+
 ## Virtualization
 + [docker for Beginners](https://docker-curriculum.com/) - Decent tutorial for getting started with docker and container configuration/management
 
