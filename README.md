@@ -44,6 +44,8 @@ Here you will find a curated collection of links to aid the weary SysAdmin. I wi
 
 + [An Overview of Cryptography](https://www.garykessler.net/library/crypto.html) - A very long and thorough "book" highlighting the principles and details of several crypto protocols/systems. Lots of math and links.
 
++ [Common Vulnerability Scoring System Calculator ](https://nvd.nist.gov/vuln-metrics/cvss/v2-calculator) - NIST's Common Vulnerability Scoring System (CVSS) "calc", useful for prioritizing the severity of known vulnerabilities on systems and building a case(s) for patching/acting accordingly. 
+
 ## Virtualization
 + [docker for Beginners](https://docker-curriculum.com/) - Decent tutorial for getting started with docker and container configuration/management
 
