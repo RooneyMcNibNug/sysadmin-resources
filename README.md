@@ -26,6 +26,8 @@ Here you will find a curated collection of links to aid the weary SysAdmin. I wi
 
 + [pure bash bible](https://github.com/dylanaraps/pure-bash-bible) - Many methods of system tasks without dependencies by solely using bash.
 
++ [Linux From Scratch](http://www.linuxfromscratch.org/lfs/downloads/stable/) - The official directory containing the latest "stable" version of the Linux From Scratch .pdf. For taking a deep dive into how a linux system _really_ works from the inside-out.
+
 ## Networking
 + [iptables ArchWiki](https://wiki.archlinux.org/index.php/Iptables) - The arch linux wiki entry for iptables, which seems to cover the utility thoroughly and provides examples/scenarios
 
@@ -56,10 +58,14 @@ Here you will find a curated collection of links to aid the weary SysAdmin. I wi
 
 + [Systems Administration for Cyborgs](http://cyborginstitute.org/projects/administration/) - A _very_ nice series of short guides/introductions to SysAdmin principles and duties, including tools and best practices. Serves as a good intro to Linux SysAdmin work in general.
 
++ [Servers For Hackers](https://serversforhackers.com/) - Mostly hands-on guides and video tutorials for server configuration and management. Many posts are free, but there is a premium group of tutorials as well.
+
 + [Linux System Administrator/DevOps Interview Questions](https://github.com/chassing/linux-sysadmin-interview-questions) - Collection of interview questions for SysAdmin applicants - seems useful for preparation
 
 + [endoflife.date](https://endoflife.date/) - "This site maintains quick links for checking End Of Life dates for various tools and technologies."
 
 + [Regex For Noobs (like me!) - An Illustrated Guide](https://www.janmeppe.com/blog/regex-for-noobs/) - Gentle guide to using regular expressions (with illustrations, like it says)
+
++ ["This is what I tell people to do.."](https://www.reddit.com/r/linuxadmin/comments/2s924h/how_did_you_get_your_start/cnnw1ma/) - an intensive skill-testing build/config to-do given as a response to an question on how someone could get started with understanding linux system admin work (based on an old version of CentOS but still applicable as far as I can see.)
 
 + [The myth of Sisyphus, and other essays](https://archive.org/details/mythofsisyphusot00camu/) - ...a half-jest
