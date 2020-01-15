@@ -50,6 +50,8 @@ Here you will find a curated collection of links to aid the weary SysAdmin. I wi
 
 + [systemd service sandboxing and security hardening 101](https://www.ctrl.blog/entry/systemd-service-hardening.html) - A blog post run-down on how to handle security configs within systemd.
 
++ [the cryptopals crypto challenges](https://www.cryptopals.com/) - "This is a different way to learn about crypto than taking a class or reading a book. We give you problems to solve. They're derived from weaknesses in real-world systems and modern cryptographic constructions."
+
 ## Virtualization
 + [docker for Beginners](https://docker-curriculum.com/) - Decent tutorial for getting started with docker and container configuration/management
 
