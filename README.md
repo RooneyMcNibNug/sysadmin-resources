@@ -48,6 +48,8 @@ Here you will find a curated collection of links to aid the weary SysAdmin. I wi
 
 + [Common Vulnerability Scoring System Calculator ](https://nvd.nist.gov/vuln-metrics/cvss/v2-calculator) - NIST's Common Vulnerability Scoring System (CVSS) "calc", useful for prioritizing the severity of known vulnerabilities on systems and building a case(s) for patching/acting accordingly. 
 
++ [systemd service sandboxing and security hardening 101](https://www.ctrl.blog/entry/systemd-service-hardening.html) - A blog post run-down on how to handle security configs within systemd.
+
 ## Virtualization
 + [docker for Beginners](https://docker-curriculum.com/) - Decent tutorial for getting started with docker and container configuration/management
 
@@ -65,6 +67,8 @@ Here you will find a curated collection of links to aid the weary SysAdmin. I wi
 + [endoflife.date](https://endoflife.date/) - "This site maintains quick links for checking End Of Life dates for various tools and technologies."
 
 + [Regex For Noobs (like me!) - An Illustrated Guide](https://www.janmeppe.com/blog/regex-for-noobs/) - Gentle guide to using regular expressions (with illustrations, like it says)
+
++ [PowerShell equivalents for common Linux/bash commands](https://mathieubuisson.github.io/powershell-linux-bash/) - Transitioning from bash to Powershell (or visa-versa) can be somehwat jarring, and this guide might serve as a helping hand.
 
 + ["This is what I tell people to do.."](https://www.reddit.com/r/linuxadmin/comments/2s924h/how_did_you_get_your_start/cnnw1ma/) - an intensive skill-testing build/config to-do given as a response to an question on how someone could get started with understanding linux system admin work (based on an old version of CentOS but still applicable as far as I can see.)
 
