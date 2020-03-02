@@ -40,6 +40,8 @@ Here you will find a curated collection of links to aid the weary SysAdmin. I wi
 + [Syslog : The Complete System Administrator Guide](https://devconnected.com/syslog-the-complete-system-administrator-guide/) - A pretty comprehensive guide to the Linux Syslog protocol
 
 ## Security
++ [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/) - Small guide that serves as a tutorial of testing a system to gain elevated access. A Windows equivalent of this guide can be found [here](https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/)
+
 + [OpenBSD's AFTERBOOT(8) manual page](https://man.openbsd.org/afterboot) - While this is specific to the OpenBSD OS, it should serve as a handy "priority" post-install config guide for system administration of Unix/Linux systems across the board
 
 + [Basic and advanced configuration of Security-Enhanced Linux (SELinux)](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/selinux_users_and_administrators_guide/index) - RHEL's guide for SElinux configuration and management, including sections for basics as well as more in-depth coverage of the access control system
