@@ -31,10 +31,14 @@ Here you will find a curated collection of links to aid the weary SysAdmin. I wi
 + [Salt - Beginners Tutorial](https://blog.talpor.com/2014/07/saltstack-beginners-tutorial/) - Tutorial for using [Salt](https://www.saltstack.com/) as a system provisioning and maintenance/configuration management tool. Includes a lot of good documentation links to get up and running with.
 
 ## Networking
++ [How to SSH Properly](https://gravitational.com/blog/how-to-ssh-properly/) - Looking on a good start into getting ssh up and running client and/or server side? Here is a good source for that.
+
 + [iptables ArchWiki](https://wiki.archlinux.org/index.php/Iptables) - The arch linux wiki entry for iptables, which seems to cover the utility thoroughly and provides examples/scenarios
 
 ## Databases
 + [SQL Quick Reference](https://www.w3schools.com/SQL/sql_quickref.asp) - a short 'cheat sheet' for SQL commands by W3Schools
+
++ [Windows - SQL Server technical documentation](https://docs.microsoft.com/en-us/sql/sql-server/?view=sqlallproducts-allversions) - The "motherlode" reference for any Windows SQl Server details.
 
 ## Logs
 + [OWASP page - Log review and management](https://www.owasp.org/index.php/Log_review_and_management) - A nice set of guidlines from OWASP on generally handling and maintaining logs. Includes some nice links at the bottom too.
@@ -77,5 +81,7 @@ Here you will find a curated collection of links to aid the weary SysAdmin. I wi
 + [PowerShell equivalents for common Linux/bash commands](https://mathieubuisson.github.io/powershell-linux-bash/) - Transitioning from bash to Powershell (or visa-versa) can be somehwat jarring, and this guide might serve as a helping hand.
 
 + ["This is what I tell people to do.."](https://www.reddit.com/r/linuxadmin/comments/2s924h/how_did_you_get_your_start/cnnw1ma/) - an intensive skill-testing build/config to-do given as a response to an question on how someone could get started with understanding linux system admin work (based on an old version of CentOS but still applicable as far as I can see.)
+
+* [Sysadmin Casts](https://sysadmincasts.com/) - "Simple bite-sized DevOps Screencasts (released weekly)" <I don't think this is maintained anymore, though.>
 
 + [The myth of Sisyphus, and other essays](https://archive.org/details/mythofsisyphusot00camu/) - ...a half-jest
