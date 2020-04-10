@@ -22,15 +22,17 @@ Here you will find a curated collection of links to aid the weary SysAdmin. I wi
 
 + [Devops Cheatsheet](https://rubytune.com/cheat/) - Handy list of terminal commands for daily administration
 
-+ [Strace -- The Sysadmin's Microscope](https://blogs.oracle.com/linux/strace-the-sysadmins-microscope-v2) - Introduction to using the system-call tracer (strace) for low-level troubleshooting
++ [Strace -- The Sysadmin's Microscope](https://blogs.oracle.com/linux/strace-the-sysadmins-microscope-v2) - Introduction to using the system-call tracer `strace` for low-level troubleshooting
 
 + [pure bash bible](https://github.com/dylanaraps/pure-bash-bible) - Many methods of system tasks without dependencies by solely using bash.
 
 + [Linux From Scratch](http://www.linuxfromscratch.org/lfs/downloads/stable/) - The official directory containing the latest "stable" version of the Linux From Scratch .pdf. For taking a deep dive into how a linux system _really_ works from the inside-out.
 
-+ [Salt - Beginners Tutorial](https://blog.talpor.com/2014/07/saltstack-beginners-tutorial/) - Tutorial for using [Salt](https://www.saltstack.com/) as a system provisioning and maintenance/configuration management tool. Includes a lot of good documentation links to get up and running with.
++ [Salt - Beginners Tutorial](https://blog.talpor.com/2014/07/saltstack-beginners-tutorial/) - Tutorial for using [`Salt`](https://www.saltstack.com/) as a system provisioning and maintenance/configuration management tool. Includes a lot of good documentation links to get up and running with.
 
 ## Networking
++ [Diagnosing a Slow Network](https://alta3.com/blog/diagnosing-a-slow-network) - Doing greuling network testing using "..three tools that a system admin should routinely use: `mtr`, `iperf`, and MTU testing with `ping`."
+ 
 + [How to SSH Properly](https://gravitational.com/blog/how-to-ssh-properly/) - Looking on a good start into getting ssh up and running client and/or server side? Here is a good source for that.
 
 + [iptables ArchWiki](https://wiki.archlinux.org/index.php/Iptables) - The arch linux wiki entry for iptables, which seems to cover the utility thoroughly and provides examples/scenarios
