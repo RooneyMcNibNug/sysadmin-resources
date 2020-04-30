@@ -18,6 +18,8 @@ Here you will find a curated collection of links to aid the weary SysAdmin. I wi
 
 + [systemd for Administrators](https://gist.github.com/bcremer/8cdf6900c35dda65f387) - Collection of the series of posts on 0xpointer dot net, its very useful for in-depth understanding of the newer init system
 
++ [Demystifying systemd](https://people.redhat.com/bbreard/presos/Demystifying_systemd_Summit_2020.pdf) - Red Hat Summit 2020 presentation slides going over some important functions and features of `systemd` in <45min.
+
 + [Chmod codes cheat sheet](https://gist.github.com/juanarbol/c44e736be70279c1fd5d68aa24f9d8be) - For when you forget about how octal notation and applying specific files/folder permissions works!
 
 + [Devops Cheatsheet](https://rubytune.com/cheat/) - Handy list of terminal commands for daily administration
