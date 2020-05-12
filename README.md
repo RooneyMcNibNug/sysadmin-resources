@@ -30,6 +30,8 @@ Here you will find a curated collection of links to aid the weary SysAdmin. I wi
 
 + [Linux From Scratch](http://www.linuxfromscratch.org/lfs/downloads/stable/) - The official directory containing the latest "stable" version of the Linux From Scratch .pdf. For taking a deep dive into how a linux system _really_ works from the inside-out.
 
++ [The Linux Kernel](https://www.win.tue.nl/~aeb/linux/lk/lk.html) - "Some remarks on the Linux Kernel" (although that's not giving this compendium enough credit, imo)
+
 + [Salt - Beginners Tutorial](https://blog.talpor.com/2014/07/saltstack-beginners-tutorial/) - Tutorial for using [`Salt`](https://www.saltstack.com/) as a system provisioning and maintenance/configuration management tool. Includes a lot of good documentation links to get up and running with.
 
 ## Networking
