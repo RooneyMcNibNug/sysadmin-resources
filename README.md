@@ -62,11 +62,15 @@ Here you will find a curated collection of links to aid the weary SysAdmin. I wi
 
 + [An Overview of Cryptography](https://www.garykessler.net/library/crypto.html) - A very long and thorough "book" highlighting the principles and details of several crypto protocols/systems. Lots of math and links.
 
++ [DigiCert SSL Certificate Installation Instructions & Tutorials](https://www.digicert.com/kb/ssl-certificate-installation.htm) - Some guides to installing SSL/TLS certs (several platforms and OS tutorials). Yes, this is DigiCert's own knowledge base articles, but ti should serve as basics for other CAs as well
+
 + [Common Vulnerability Scoring System Calculator ](https://nvd.nist.gov/vuln-metrics/cvss/v2-calculator) - NIST's Common Vulnerability Scoring System (CVSS) "calc", useful for prioritizing the severity of known vulnerabilities on systems and building a case(s) for patching/acting accordingly. 
 
 + [systemd service sandboxing and security hardening 101](https://www.ctrl.blog/entry/systemd-service-hardening.html) - A blog post run-down on how to handle security configs within systemd.
 
 + [the cryptopals crypto challenges](https://www.cryptopals.com/) - "This is a different way to learn about crypto than taking a class or reading a book. We give you problems to solve. They're derived from weaknesses in real-world systems and modern cryptographic constructions."
+
++ [Hacksplaining](https://www.hacksplaining.com/lessons) - A very nice visual run-through of common vulnerabilities with services to look out for (and some ways to prevent them)
 
 ## Virtualization
 + [docker for Beginners](https://docker-curriculum.com/) - Decent tutorial for getting started with docker and container configuration/management
