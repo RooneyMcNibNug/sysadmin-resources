@@ -3,13 +3,13 @@ Here you will find a curated collection of links to aid the weary SysAdmin. I wi
 
 ## Table of Contents
 
-1. [System Management](SystemManagement)
-2. [Networking](Networking)
-3. [Databases](Databases)
-4. [Logs](Logs)
-5. [Security](Security)
-6. [Virtualization](Virtualization)
-7. [Misc.](Misc.)
+1. [System Management](#system-management)
+2. [Networking](#networking)
+3. [Databases](#databases)
+4. [Logs](#logs)
+5. [Security](#security)
+6. [Virtualization](#virtualization)
+7. [Misc.](#misc)
 
 ## System Management
 + [Linux Insides](https://0xax.gitbooks.io/linux-insides/) - A great free online book to help understand the linux kernel, boot process, and other low-level happenings.
