@@ -94,6 +94,8 @@ Here you will find a curated collection of links to aid the weary SysAdmin. I wi
 
 + ["This is what I tell people to do.."](https://www.reddit.com/r/linuxadmin/comments/2s924h/how_did_you_get_your_start/cnnw1ma/) - an intensive skill-testing build/config to-do given as a response to an question on how someone could get started with understanding linux system admin work (based on an old version of CentOS but still applicable as far as I can see.)
 
-* [Sysadmin Casts](https://sysadmincasts.com/) - "Simple bite-sized DevOps Screencasts (released weekly)" <I don't think this is maintained anymore, though.>
++ [Sysadmin Casts](https://sysadmincasts.com/) - "Simple bite-sized DevOps Screencasts (released weekly)" <I don't think this is maintained anymore, though.>
+
++ ["Is Your Internet Up To Date?"](https://internet.nl/) - Silly domain name, but good site for birds-eye testing if "..your website, email and internet connection use modern and reliable Internet Standards.." and what actions you mihgt want to take if not.
 
 + [The myth of Sisyphus, and other essays](https://archive.org/details/mythofsisyphusot00camu/) - ...a half-jest
