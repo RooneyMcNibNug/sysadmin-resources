@@ -36,6 +36,8 @@ Here you will find a curated collection of links to aid the weary SysAdmin. I wi
 
 + [Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) - Ever-useful suite of utilities for performing maintenance and troubleshooting on Windows systems.
 
++ [Understanding Numbers in PowerShell](https://devblogs.microsoft.com/scripting/understanding-numbers-in-powershell/) - A Windows DevBlog article including a very helpful table of numbers types in PowerShell and their limitations.
+
 ## Networking
 + [Diagnosing a Slow Network](https://alta3.com/blog/diagnosing-a-slow-network) - Doing greuling network testing using "..three tools that a system admin should routinely use: `mtr`, `iperf`, and MTU testing with `ping`."
  
