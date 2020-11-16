@@ -38,6 +38,8 @@ Here you will find a curated collection of links to aid the weary SysAdmin. I wi
 
 + [Understanding Numbers in PowerShell](https://devblogs.microsoft.com/scripting/understanding-numbers-in-powershell/) - A Windows DevBlog article including a very helpful table of numbers types in PowerShell and their limitations.
 
++ [Unix System Monitoring and Diagnostic CLI Tools](https://docs.monadical.com/s/system-monitoring-tools) - "An opinionated list of CLI utilities for monitoring and inspecting Linux/BSD systems." - more than enough tools to take a look at for nix admin tasks, as well as examples provided for each one.
+
 ## Networking
 + [Diagnosing a Slow Network](https://alta3.com/blog/diagnosing-a-slow-network) - Doing greuling network testing using "..three tools that a system admin should routinely use: `mtr`, `iperf`, and MTU testing with `ping`."
  
