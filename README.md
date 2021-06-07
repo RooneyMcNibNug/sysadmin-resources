@@ -28,6 +28,8 @@ Here you will find a curated collection of links to aid the weary SysAdmin. I wi
 
 + [pure bash bible](https://github.com/dylanaraps/pure-bash-bible) - Many methods of system tasks without dependencies by solely using bash.
 
++ [Gentoo Linux amd64 Handbook: Installing Gentoo](https://wiki.gentoo.org/wiki/Handbook:AMD64/Full/Installation) - You don't have to install Gentoo to gain some nice low-level details and perspective on things like the linux kernel, sources, partition schemes, filesystems, and other system details. Very helpful for a fresh linux sysadmin.
+
 + [Linux From Scratch](http://www.linuxfromscratch.org/lfs/downloads/stable/) - The official directory containing the latest "stable" version of the Linux From Scratch .pdf. For taking a deep dive into how a linux system _really_ works from the inside-out.
 
 + [The Linux Kernel](https://www.win.tue.nl/~aeb/linux/lk/lk.html) - "Some remarks on the Linux Kernel" (although that's not giving this compendium enough credit, imo)
