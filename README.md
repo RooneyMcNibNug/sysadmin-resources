@@ -104,4 +104,4 @@ Here you will find a curated collection of links to aid the weary SysAdmin. I wi
 
 + ["Is Your Internet Up To Date?"](https://internet.nl/) - Silly domain name, but good site for birds-eye testing if "..your website, email and internet connection use modern and reliable Internet Standards.." and what actions you mihgt want to take if not.
 
-+ [The myth of Sisyphus, and other essays](https://archive.org/details/mythofsisyphusot00camu/) - ...a half-jest
++ [The myth of Sisyphus, and other essays](https://www2.hawaii.edu/~freeman/courses/phil360/16.%20Myth%20of%20Sisyphus.pdf) - ...a half-jest
