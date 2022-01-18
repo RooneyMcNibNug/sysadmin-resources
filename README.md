@@ -86,6 +86,8 @@ Here you will find a curated collection of links to aid the weary SysAdmin. I wi
 ## Misc.
 + [Enable Sysadmin](https://www.redhat.com/sysadmin/) - Red Hat Enterprise Linux's "community publication" for SysAdmins, featuring articles, tutorials, etc. A nice page to check on from time to time.
 
++ [CyberChef, The Cyber Swiss Army Knife](https://gchq.github.io/CyberChef/) - Decode Base64, convert date/time strings, decrypt/disassemble shellcode, and over 250 other operations available from this helpful webpage.
+
 + [Systems Administration for Cyborgs](http://cyborginstitute.org/projects/administration/) - A _very_ nice series of short guides/introductions to SysAdmin principles and duties, including tools and best practices. Serves as a good intro to Linux SysAdmin work in general.
 
 + [Servers For Hackers](https://serversforhackers.com/) - Mostly hands-on guides and video tutorials for server configuration and management. Many posts are free, but there is a premium group of tutorials as well.
