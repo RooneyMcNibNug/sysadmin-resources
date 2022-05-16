@@ -49,6 +49,8 @@ Here you will find a curated collection of links to aid the weary SysAdmin. I wi
 
 + [iptables ArchWiki](https://wiki.archlinux.org/index.php/Iptables) - The arch linux wiki entry for iptables, which seems to cover the utility thoroughly and provides examples/scenarios
 
++ [Tor is a Great SysAdmin Tool](https://www.jamieweb.net/blog/tor-is-a-great-sysadmin-tool/)  A good blog post on using [Tor](https://www.torproject.org/) for things like testing and troubleshooting with networks.
+
 ## Databases
 + [SQL Quick Reference](https://www.w3schools.com/SQL/sql_quickref.asp) - a short 'cheat sheet' for SQL commands by W3Schools
 
