@@ -94,6 +94,8 @@ Here you will find a curated collection of links to aid the weary SysAdmin. I wi
 
 + [Servers For Hackers](https://serversforhackers.com/) - Mostly hands-on guides and video tutorials for server configuration and management. Many posts are free, but there is a premium group of tutorials as well.
 
++ [(Easy) Azure VM Comparison](https://azureprice.net/) - "Find and compare Azure Virtual Machines specs and pricing on one page across different tiers, payment types, and regions."
+
 + [Linux System Administrator/DevOps Interview Questions](https://github.com/chassing/linux-sysadmin-interview-questions) - Collection of interview questions for SysAdmin applicants - seems useful for preparation
 
 + [endoflife.date](https://endoflife.date/) - "This site maintains quick links for checking End Of Life dates for various tools and technologies."
