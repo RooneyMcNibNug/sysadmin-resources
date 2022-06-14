@@ -16,6 +16,8 @@ Here you will find a curated collection of links to aid the weary SysAdmin. I wi
 
 + [Signal(7) man-page](http://man7.org/linux/man-pages/man7/signal.7.html) - Useful guide for sending proper signals during proc management
 
++ [systemd - System and Service Manager](https://systemd.io/) - Very nice guide to different features within the systemd suite.
+
 + [systemd for Administrators](https://gist.github.com/bcremer/8cdf6900c35dda65f387) - Collection of the series of posts on 0xpointer dot net, its very useful for in-depth understanding of the newer init system
 
 + [Demystifying systemd](https://people.redhat.com/bbreard/presos/Demystifying_systemd_Summit_2020.pdf) - Red Hat Summit 2020 presentation slides going over some important functions and features of `systemd` in <45min.
