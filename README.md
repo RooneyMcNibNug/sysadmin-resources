@@ -14,6 +14,8 @@ Here you will find a curated collection of links to aid the weary SysAdmin. I wi
 ## System Management
 + [Linux Insides](https://0xax.gitbooks.io/linux-insides/) - A great free online book to help understand the linux kernel, boot process, and other low-level happenings.
 
++ [Effective Shell](https://effective-shell.com/) - "For the newcomer, you'll learn what a shell is, how to use it on your system, and then how to become more effective everyday by integrating the shell into your work. For the experienced professional, there is a wealth of detailed tips and tricks in each chapter that go into advanced topics and techniques to make you even more of a power user."
+
 + [Signal(7) man-page](http://man7.org/linux/man-pages/man7/signal.7.html) - Useful guide for sending proper signals during proc management
 
 + [systemd - System and Service Manager](https://systemd.io/) - Very nice guide to different features within the systemd suite.
