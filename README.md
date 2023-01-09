@@ -84,6 +84,8 @@ Here you will find a curated collection of links to aid the weary SysAdmin. I wi
 
 + [Hacksplaining](https://www.hacksplaining.com/lessons) - A very nice visual run-through of common vulnerabilities with services to look out for (and some ways to prevent them)
 
++ [all InfoSec news - Sources](https://github.com/foorilla/allinfosecnews_sources/blob/main/README.md) - a curated list of information security news sources, all shoved into a nice `README`. This is nice to use with an RSS feed and to keep on top of vulns.
+
 ## Virtualization
 + [docker for Beginners](https://docker-curriculum.com/) - Decent tutorial for getting started with docker and container configuration/management
 
